@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/deanf/Documents/CIE Fall 2019/rdfarwell/homework/hw3/Address.h
+string
+-
+iostream
+-
+
+C:/Users/deanf/Documents/CIE Fall 2019/rdfarwell/homework/hw3/AddressBook.cpp
+AddressBook.h
+C:/Users/deanf/Documents/CIE Fall 2019/rdfarwell/homework/hw3/AddressBook.h
+iostream
+-
+fstream
+-
+
+C:/Users/deanf/Documents/CIE Fall 2019/rdfarwell/homework/hw3/AddressBook.h
+vector
+-
+string
+-
+Contact.h
+C:/Users/deanf/Documents/CIE Fall 2019/rdfarwell/homework/hw3/Contact.h
+Address.h
+C:/Users/deanf/Documents/CIE Fall 2019/rdfarwell/homework/hw3/Address.h
+
+C:/Users/deanf/Documents/CIE Fall 2019/rdfarwell/homework/hw3/Contact.h
+string
+-
+Address.h
+C:/Users/deanf/Documents/CIE Fall 2019/rdfarwell/homework/hw3/Address.h
+

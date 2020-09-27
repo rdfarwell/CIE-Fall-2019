@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/deanf/Documents/CIE Fall 2019/rdfarwell/homework/hw2/Contact.cpp
+Contact.h
+C:/Users/deanf/Documents/CIE Fall 2019/rdfarwell/homework/hw2/Contact.h
+iostream
+-
+
+C:/Users/deanf/Documents/CIE Fall 2019/rdfarwell/homework/hw2/Contact.h
+string
+-
+
+C:/Users/deanf/Documents/CIE Fall 2019/rdfarwell/homework/hw2/main.cpp
+iostream
+-
+vector
+-
+Contact.h
+C:/Users/deanf/Documents/CIE Fall 2019/rdfarwell/homework/hw2/Contact.h
+
